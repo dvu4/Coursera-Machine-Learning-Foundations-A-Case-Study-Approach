@@ -1,1 +1,1 @@
-# ml_case_study
+# Coursera-Machine-Learning-Foundations-A-Case-Study-Approach
